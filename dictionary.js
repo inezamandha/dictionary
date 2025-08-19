@@ -23,9 +23,10 @@ const rl = readline.createInterface({
 });
 
 rl.question('Enter a sentence: ', (sentence) => {
+  // Allow words with apostrophes (like I'm, don't, it's)
   const inputWords = sentence
     .toLowerCase()
-    .match(/\b\w+\b/g) || []; // extract words (ignoring punctuation)
+    .match(/\b\w+(?:'\w+)?\b/g) || [];
 
   if (inputWords.length === 0) {
     console.log('⚠️ No valid words found.');
