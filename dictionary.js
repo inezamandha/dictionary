@@ -24,9 +24,7 @@ const rl = readline.createInterface({
 
 rl.question('Enter a sentence: ', (sentence) => {
   // Allow contractions with apostrophes
-  const inputWords = sentence
-    .toLowerCase()
-    .match(/\b\w+(?:'\w+)?\b/g) || [];
+  const inputWords = (sentence.toLowerCase().match(/\b\w+(?:'\w+)?\b/g) || []);
 
   if (inputWords.length === 0) {
     console.log('⚠️ No valid words found.');
@@ -34,8 +32,11 @@ rl.question('Enter a sentence: ', (sentence) => {
     return;
   }
 
-  // Filter only new words (skip existing ones)
-  const newWords = inputWords.filter(
+  // Deduplicate words from this input
+  const uniqueInputWords = [...new Set(inputWords)];
+
+  // Filter only words not already in dictionary
+  const newWords = uniqueInputWords.filter(
     word => !dictionary.words.some(entry => entry.word === word)
   );
 
