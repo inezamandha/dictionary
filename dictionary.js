@@ -23,7 +23,7 @@ const rl = readline.createInterface({
 });
 
 rl.question('Enter a sentence: ', (sentence) => {
-  // Allow words with apostrophes (like I'm, don't, it's)
+  // Allow contractions with apostrophes
   const inputWords = sentence
     .toLowerCase()
     .match(/\b\w+(?:'\w+)?\b/g) || [];
@@ -34,32 +34,34 @@ rl.question('Enter a sentence: ', (sentence) => {
     return;
   }
 
+  // Filter only new words (skip existing ones)
+  const newWords = inputWords.filter(
+    word => !dictionary.words.some(entry => entry.word === word)
+  );
+
+  if (newWords.length === 0) {
+    console.log('✅ All words already exist. Nothing to add.');
+    rl.close();
+    return;
+  }
+
   rl.question('Enter the source: ', (sourceInput) => {
     const source = sourceInput.trim();
-    let addedCount = 0;
 
-    inputWords.forEach(word => {
-      const exists = dictionary.words.some(entry => entry.word === word);
-      if (!exists) {
-        dictionary.words.push({
-          word,
-          source,
-          created: formatDate(new Date())
-        });
-        addedCount++;
-      } else {
-        console.log(`🔁 "${word}" already exists. Skipping.`);
-      }
+    newWords.forEach(word => {
+      dictionary.words.push({
+        word,
+        source,
+        created: formatDate(new Date())
+      });
+      console.log(`➕ Added "${word}"`);
     });
 
-    if (addedCount > 0) {
-      dictionary.words.sort((a, b) => a.word.localeCompare(b.word));
-      dictionary.total = dictionary.words.length;
-      fs.writeFileSync(dictionaryFile, JSON.stringify(dictionary, null, 2));
-      console.log(`✅ Added ${addedCount} new word(s). Total now: ${dictionary.total}`);
-    } else {
-      console.log('✅ No new words to add.');
-    }
+    dictionary.words.sort((a, b) => a.word.localeCompare(b.word));
+    dictionary.total = dictionary.words.length;
+    fs.writeFileSync(dictionaryFile, JSON.stringify(dictionary, null, 2));
+
+    console.log(`✅ Added ${newWords.length} new word(s). Total now: ${dictionary.total}`);
 
     rl.close();
   });
