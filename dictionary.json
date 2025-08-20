@@ -1,5 +1,5 @@
 {
-  "total": 282,
+  "total": 383,
   "words": [
     {
       "word": "a",
@@ -7,9 +7,19 @@
       "created": "2025-08-19 09:59:25"
     },
     {
+      "word": "about",
+      "source": "duolingo",
+      "created": "2025-08-20 23:48:15"
+    },
+    {
       "word": "after",
       "source": "duolingo",
       "created": "2025-08-19 12:07:09"
+    },
+    {
+      "word": "airport",
+      "source": "duolingo",
+      "created": "2025-08-20 23:46:03"
     },
     {
       "word": "all",
@@ -52,9 +62,19 @@
       "created": "2025-08-19 10:45:43"
     },
     {
+      "word": "any",
+      "source": "duolingo",
+      "created": "2025-08-20 23:48:15"
+    },
+    {
       "word": "are",
       "source": "duolingo",
       "created": "2025-08-19 10:54:03"
+    },
+    {
+      "word": "aren't",
+      "source": "duolingo",
+      "created": "2025-08-20 23:48:15"
     },
     {
       "word": "arrivals",
@@ -67,14 +87,34 @@
       "created": "2025-08-19 12:08:00"
     },
     {
+      "word": "asia",
+      "source": "duolingo",
+      "created": "2025-08-20 23:40:39"
+    },
+    {
       "word": "at",
       "source": "duolingo",
       "created": "2025-08-19 10:11:43"
     },
     {
+      "word": "available",
+      "source": "duolingo",
+      "created": "2025-08-20 23:48:15"
+    },
+    {
+      "word": "away",
+      "source": "duolingo",
+      "created": "2025-08-20 23:43:54"
+    },
+    {
       "word": "bad",
       "source": "duolingo",
       "created": "2025-08-19 12:08:00"
+    },
+    {
+      "word": "bags",
+      "source": "duolingo",
+      "created": "2025-08-20 23:46:03"
     },
     {
       "word": "band",
@@ -102,6 +142,26 @@
       "created": "2025-08-19 10:03:42"
     },
     {
+      "word": "because",
+      "source": "duolingo",
+      "created": "2025-08-20 23:41:56"
+    },
+    {
+      "word": "bed",
+      "source": "duolingo",
+      "created": "2025-08-20 23:41:22"
+    },
+    {
+      "word": "been",
+      "source": "duolingo",
+      "created": "2025-08-20 23:47:16"
+    },
+    {
+      "word": "before",
+      "source": "duolingo",
+      "created": "2025-08-20 23:47:16"
+    },
+    {
       "word": "believe",
       "source": "duolingo",
       "created": "2025-08-19 10:12:35"
@@ -120,6 +180,11 @@
       "word": "big",
       "source": "duolingo",
       "created": "2025-08-19 10:03:38"
+    },
+    {
+      "word": "blank",
+      "source": "duolingo",
+      "created": "2025-08-20 23:40:39"
     },
     {
       "word": "bonus",
@@ -145,6 +210,21 @@
       "word": "but",
       "source": "duolingo",
       "created": "2025-08-19 12:24:38"
+    },
+    {
+      "word": "butter",
+      "source": "duolingo",
+      "created": "2025-08-20 23:40:39"
+    },
+    {
+      "word": "buying",
+      "source": "duolingo",
+      "created": "2025-08-20 23:46:03"
+    },
+    {
+      "word": "came",
+      "source": "duolingo",
+      "created": "2025-08-20 23:48:15"
     },
     {
       "word": "can",
@@ -222,6 +302,11 @@
       "created": "2025-08-19 12:05:34"
     },
     {
+      "word": "comfortable",
+      "source": "duolingo",
+      "created": "2025-08-20 23:41:22"
+    },
+    {
       "word": "complete",
       "source": "duolingo",
       "created": "2025-08-19 10:04:03"
@@ -252,9 +337,24 @@
       "created": "2025-08-19 10:10:26"
     },
     {
+      "word": "correct",
+      "source": "duolingo",
+      "created": "2025-08-20 23:44:47"
+    },
+    {
       "word": "cost",
       "source": "duolingo",
       "created": "2025-08-19 10:54:50"
+    },
+    {
+      "word": "course",
+      "source": "duolingo",
+      "created": "2025-08-20 23:40:20"
+    },
+    {
+      "word": "crowded",
+      "source": "duolingo",
+      "created": "2025-08-20 23:44:24"
     },
     {
       "word": "cut",
@@ -277,6 +377,11 @@
       "created": "2025-08-19 12:26:00"
     },
     {
+      "word": "day",
+      "source": "duolingo",
+      "created": "2025-08-20 23:42:18"
+    },
+    {
       "word": "did",
       "source": "duolingo",
       "created": "2025-08-19 12:14:36"
@@ -295,6 +400,11 @@
       "word": "does",
       "source": "duolingo",
       "created": "2025-08-19 12:08:00"
+    },
+    {
+      "word": "doesn't",
+      "source": "duolingo",
+      "created": "2025-08-20 23:48:41"
     },
     {
       "word": "dog",
@@ -347,6 +457,11 @@
       "created": "2025-08-19 12:24:38"
     },
     {
+      "word": "everybody",
+      "source": "duolingo",
+      "created": "2025-08-20 23:41:56"
+    },
+    {
       "word": "everyone's",
       "source": "duolingo",
       "created": "2025-08-19 12:08:00"
@@ -370,6 +485,11 @@
       "word": "extra",
       "source": "duolingo",
       "created": "2025-08-19 10:10:05"
+    },
+    {
+      "word": "family",
+      "source": "duolingo",
+      "created": "2025-08-20 23:42:44"
     },
     {
       "word": "far",
@@ -402,9 +522,19 @@
       "created": "2025-08-19 10:47:49"
     },
     {
+      "word": "feels",
+      "source": "duolingo",
+      "created": "2025-08-20 23:42:44"
+    },
+    {
       "word": "fifty",
       "source": "duolingo",
       "created": "2025-08-19 10:54:54"
+    },
+    {
+      "word": "fill",
+      "source": "duolingo",
+      "created": "2025-08-20 23:40:39"
     },
     {
       "word": "find",
@@ -417,6 +547,11 @@
       "created": "2025-08-19 10:05:02"
     },
     {
+      "word": "first",
+      "source": "duolingo",
+      "created": "2025-08-20 23:47:16"
+    },
+    {
       "word": "floor",
       "source": "duolingo",
       "created": "2025-08-19 10:43:52"
@@ -425,6 +560,11 @@
       "word": "follars",
       "source": "duolingo",
       "created": "2025-08-19 12:26:48"
+    },
+    {
+      "word": "follow",
+      "source": "duolingo",
+      "created": "2025-08-20 23:40:20"
     },
     {
       "word": "for",
@@ -502,6 +642,11 @@
       "created": "2025-08-19 10:44:47"
     },
     {
+      "word": "gym",
+      "source": "duolingo",
+      "created": "2025-08-20 23:46:55"
+    },
+    {
       "word": "hair",
       "source": "duolingo",
       "created": "2025-08-19 12:05:11"
@@ -577,14 +722,39 @@
       "created": "2025-08-19 12:08:28"
     },
     {
+      "word": "high",
+      "source": "duolingo",
+      "created": "2025-08-20 23:44:47"
+    },
+    {
+      "word": "homesick",
+      "source": "duolingo",
+      "created": "2025-08-20 23:42:44"
+    },
+    {
       "word": "hope",
       "source": "duolingo",
       "created": "2025-08-19 12:26:48"
     },
     {
+      "word": "horrible",
+      "source": "duolingo",
+      "created": "2025-08-20 23:42:44"
+    },
+    {
+      "word": "hotel",
+      "source": "duolingo",
+      "created": "2025-08-20 23:41:22"
+    },
+    {
       "word": "hour",
       "source": "duolingo",
       "created": "2025-08-19 10:47:44"
+    },
+    {
+      "word": "hours",
+      "source": "duolingo",
+      "created": "2025-08-20 23:46:55"
     },
     {
       "word": "how",
@@ -597,9 +767,19 @@
       "created": "2025-08-19 10:04:07"
     },
     {
+      "word": "i'll",
+      "source": "duolingo",
+      "created": "2025-08-20 23:42:18"
+    },
+    {
       "word": "i'm",
       "source": "duolingo",
       "created": "2025-08-19 12:01:19"
+    },
+    {
+      "word": "i've",
+      "source": "duolingo",
+      "created": "2025-08-20 23:47:16"
     },
     {
       "word": "idea",
@@ -617,6 +797,11 @@
       "created": "2025-08-19 10:54:11"
     },
     {
+      "word": "inside",
+      "source": "duolingo",
+      "created": "2025-08-20 23:48:15"
+    },
+    {
       "word": "is",
       "source": "duolingo",
       "created": "2025-08-19 10:09:44"
@@ -632,9 +817,24 @@
       "created": "2025-08-19 12:26:48"
     },
     {
+      "word": "job",
+      "source": "duolingo",
+      "created": "2025-08-20 23:45:16"
+    },
+    {
       "word": "just",
       "source": "duolingo",
       "created": "2025-08-19 10:47:17"
+    },
+    {
+      "word": "land",
+      "source": "duolingo",
+      "created": "2025-08-20 23:44:47"
+    },
+    {
+      "word": "last",
+      "source": "duolingo",
+      "created": "2025-08-20 23:48:15"
     },
     {
       "word": "later",
@@ -677,9 +877,24 @@
       "created": "2025-08-19 10:11:37"
     },
     {
+      "word": "liked",
+      "source": "duolingo",
+      "created": "2025-08-20 23:46:32"
+    },
+    {
+      "word": "likely",
+      "source": "duolingo",
+      "created": "2025-08-20 23:40:20"
+    },
+    {
       "word": "likes",
       "source": "duolingo",
       "created": "2025-08-19 10:10:13"
+    },
+    {
+      "word": "line",
+      "source": "duolingo",
+      "created": "2025-08-20 23:46:03"
     },
     {
       "word": "list",
@@ -692,9 +907,19 @@
       "created": "2025-08-19 10:11:40"
     },
     {
+      "word": "listening",
+      "source": "duolingo",
+      "created": "2025-08-20 23:43:35"
+    },
+    {
       "word": "little",
       "source": "duolingo",
       "created": "2025-08-19 10:12:20"
+    },
+    {
+      "word": "loading",
+      "source": "duolingo",
+      "created": "2025-08-20 23:40:20"
     },
     {
       "word": "look",
@@ -737,6 +962,11 @@
       "created": "2025-08-19 12:05:34"
     },
     {
+      "word": "many",
+      "source": "duolingo",
+      "created": "2025-08-20 23:44:24"
+    },
+    {
       "word": "maybe",
       "source": "duolingo",
       "created": "2025-08-19 12:25:23"
@@ -757,6 +987,11 @@
       "created": "2025-08-19 12:14:36"
     },
     {
+      "word": "minutes",
+      "source": "duolingo",
+      "created": "2025-08-20 23:43:35"
+    },
+    {
       "word": "mirror",
       "source": "duolingo",
       "created": "2025-08-19 12:08:28"
@@ -765,6 +1000,11 @@
       "word": "miss",
       "source": "duolingo",
       "created": "2025-08-19 10:10:30"
+    },
+    {
+      "word": "misses",
+      "source": "duolingo",
+      "created": "2025-08-20 23:42:44"
     },
     {
       "word": "missing",
@@ -777,9 +1017,19 @@
       "created": "2025-08-19 10:00:02"
     },
     {
+      "word": "monday",
+      "source": "duolingo",
+      "created": "2025-08-20 23:40:39"
+    },
+    {
       "word": "money",
       "source": "duolingo",
       "created": "2025-08-19 12:08:00"
+    },
+    {
+      "word": "more",
+      "source": "duolingo",
+      "created": "2025-08-20 23:40:20"
     },
     {
       "word": "motorcycle",
@@ -807,6 +1057,11 @@
       "created": "2025-08-19 12:06:02"
     },
     {
+      "word": "never",
+      "source": "duolingo",
+      "created": "2025-08-20 23:47:16"
+    },
+    {
       "word": "new",
       "source": "duolingo",
       "created": "2025-08-19 10:41:47"
@@ -817,6 +1072,11 @@
       "created": "2025-08-19 12:05:34"
     },
     {
+      "word": "nice",
+      "source": "duolingo",
+      "created": "2025-08-20 23:43:54"
+    },
+    {
       "word": "nicely",
       "source": "duolingo",
       "created": "2025-08-19 12:27:00"
@@ -825,6 +1085,11 @@
       "word": "no",
       "source": "duolingo",
       "created": "2025-08-19 12:25:23"
+    },
+    {
+      "word": "nobody",
+      "source": "duolingo",
+      "created": "2025-08-20 23:41:56"
     },
     {
       "word": "not",
@@ -852,9 +1117,19 @@
       "created": "2025-08-19 09:58:30"
     },
     {
+      "word": "online",
+      "source": "duolingo",
+      "created": "2025-08-20 23:48:41"
+    },
+    {
       "word": "only",
       "source": "duolingo",
       "created": "2025-08-19 12:25:44"
+    },
+    {
+      "word": "order",
+      "source": "duolingo",
+      "created": "2025-08-20 23:48:15"
     },
     {
       "word": "other",
@@ -877,6 +1152,11 @@
       "created": "2025-08-19 10:09:47"
     },
     {
+      "word": "pajamas",
+      "source": "duolingo",
+      "created": "2025-08-20 23:41:22"
+    },
+    {
       "word": "paris",
       "source": "duolingo",
       "created": "2025-08-19 10:41:36"
@@ -885,6 +1165,11 @@
       "word": "passport",
       "source": "duolingo",
       "created": "2025-08-19 10:10:23"
+    },
+    {
+      "word": "passports",
+      "source": "duolingo",
+      "created": "2025-08-20 23:46:03"
     },
     {
       "word": "patio",
@@ -900,6 +1185,16 @@
       "word": "pay",
       "source": "duolingo",
       "created": "2025-08-19 12:06:02"
+    },
+    {
+      "word": "perfect",
+      "source": "duolingo",
+      "created": "2025-08-20 23:42:44"
+    },
+    {
+      "word": "person",
+      "source": "duolingo",
+      "created": "2025-08-20 23:46:03"
     },
     {
       "word": "pet",
@@ -922,6 +1217,16 @@
       "created": "2025-08-19 12:27:36"
     },
     {
+      "word": "place",
+      "source": "duolingo",
+      "created": "2025-08-20 23:43:54"
+    },
+    {
+      "word": "plane",
+      "source": "duolingo",
+      "created": "2025-08-20 23:46:03"
+    },
+    {
       "word": "planes",
       "source": "duolingo",
       "created": "2025-08-19 10:41:27"
@@ -940,6 +1245,11 @@
       "word": "principal's",
       "source": "duolingo",
       "created": "2025-08-19 12:24:38"
+    },
+    {
+      "word": "probably",
+      "source": "duolingo",
+      "created": "2025-08-20 23:41:22"
     },
     {
       "word": "problem",
@@ -962,6 +1272,11 @@
       "created": "2025-08-19 12:09:08"
     },
     {
+      "word": "read",
+      "source": "duolingo",
+      "created": "2025-08-20 23:41:22"
+    },
+    {
       "word": "really",
       "source": "duolingo",
       "created": "2025-08-19 12:08:00"
@@ -972,9 +1287,34 @@
       "created": "2025-08-19 12:14:36"
     },
     {
+      "word": "rents",
+      "source": "duolingo",
+      "created": "2025-08-20 23:44:47"
+    },
+    {
+      "word": "repeat",
+      "source": "duolingo",
+      "created": "2025-08-20 23:43:35"
+    },
+    {
+      "word": "reserve",
+      "source": "duolingo",
+      "created": "2025-08-20 23:48:41"
+    },
+    {
       "word": "respond",
       "source": "duolingo",
       "created": "2025-08-19 12:27:36"
+    },
+    {
+      "word": "restaurant",
+      "source": "duolingo",
+      "created": "2025-08-20 23:48:15"
+    },
+    {
+      "word": "reveal",
+      "source": "duolingo",
+      "created": "2025-08-20 23:43:35"
     },
     {
       "word": "review",
@@ -985,6 +1325,26 @@
       "word": "right",
       "source": "duolingo",
       "created": "2025-08-19 12:24:38"
+    },
+    {
+      "word": "room",
+      "source": "duolingo",
+      "created": "2025-08-20 23:43:14"
+    },
+    {
+      "word": "rooms",
+      "source": "duolingo",
+      "created": "2025-08-20 23:48:41"
+    },
+    {
+      "word": "row",
+      "source": "duolingo",
+      "created": "2025-08-20 23:43:54"
+    },
+    {
+      "word": "sad",
+      "source": "duolingo",
+      "created": "2025-08-20 23:42:44"
     },
     {
       "word": "said",
@@ -1047,9 +1407,39 @@
       "created": "2025-08-19 10:00:16"
     },
     {
+      "word": "show",
+      "source": "duolingo",
+      "created": "2025-08-20 23:46:03"
+    },
+    {
+      "word": "sit",
+      "source": "duolingo",
+      "created": "2025-08-20 23:48:15"
+    },
+    {
+      "word": "skip",
+      "source": "duolingo",
+      "created": "2025-08-20 23:43:35"
+    },
+    {
+      "word": "sleep",
+      "source": "duolingo",
+      "created": "2025-08-20 23:41:22"
+    },
+    {
+      "word": "sleeping",
+      "source": "duolingo",
+      "created": "2025-08-20 23:46:03"
+    },
+    {
       "word": "small",
       "source": "duolingo",
       "created": "2025-08-19 10:44:53"
+    },
+    {
+      "word": "so",
+      "source": "duolingo",
+      "created": "2025-08-20 23:41:22"
     },
     {
       "word": "solo",
@@ -1070,6 +1460,11 @@
       "word": "speak",
       "source": "duolingo",
       "created": "2025-08-19 10:05:14"
+    },
+    {
+      "word": "speaker",
+      "source": "duolingo",
+      "created": "2025-08-20 23:41:22"
     },
     {
       "word": "speedy",
@@ -1127,6 +1522,11 @@
       "created": "2025-08-19 12:24:38"
     },
     {
+      "word": "suitcase",
+      "source": "duolingo",
+      "created": "2025-08-20 23:46:03"
+    },
+    {
       "word": "sunny",
       "source": "duolingo",
       "created": "2025-08-19 10:45:46"
@@ -1135,6 +1535,16 @@
       "word": "sure",
       "source": "duolingo",
       "created": "2025-08-19 12:06:02"
+    },
+    {
+      "word": "tables",
+      "source": "duolingo",
+      "created": "2025-08-20 23:48:15"
+    },
+    {
+      "word": "take",
+      "source": "duolingo",
+      "created": "2025-08-20 23:44:24"
     },
     {
       "word": "talking",
@@ -1202,6 +1612,16 @@
       "created": "2025-08-19 12:14:36"
     },
     {
+      "word": "they're",
+      "source": "duolingo",
+      "created": "2025-08-20 23:48:15"
+    },
+    {
+      "word": "things",
+      "source": "duolingo",
+      "created": "2025-08-20 23:41:22"
+    },
+    {
       "word": "think",
       "source": "duolingo",
       "created": "2025-08-19 10:42:02"
@@ -1242,6 +1662,11 @@
       "created": "2025-08-19 10:11:02"
     },
     {
+      "word": "tomorrow",
+      "source": "duolingo",
+      "created": "2025-08-20 23:41:22"
+    },
+    {
       "word": "tonight",
       "source": "duolingo",
       "created": "2025-08-19 12:26:00"
@@ -1252,6 +1677,11 @@
       "created": "2025-08-19 10:03:49"
     },
     {
+      "word": "train",
+      "source": "duolingo",
+      "created": "2025-08-20 23:44:24"
+    },
+    {
       "word": "trains",
       "source": "duolingo",
       "created": "2025-08-19 10:12:54"
@@ -1260,6 +1690,11 @@
       "word": "traveled",
       "source": "duolingo",
       "created": "2025-08-19 10:16:22"
+    },
+    {
+      "word": "travelers",
+      "source": "duolingo",
+      "created": "2025-08-20 23:44:24"
     },
     {
       "word": "traveling",
@@ -1277,14 +1712,39 @@
       "created": "2025-08-19 12:25:23"
     },
     {
+      "word": "try",
+      "source": "duolingo",
+      "created": "2025-08-20 23:42:18"
+    },
+    {
       "word": "twenty",
       "source": "duolingo",
       "created": "2025-08-19 12:09:08"
     },
     {
+      "word": "two",
+      "source": "duolingo",
+      "created": "2025-08-20 23:46:55"
+    },
+    {
+      "word": "type",
+      "source": "duolingo",
+      "created": "2025-08-20 23:42:44"
+    },
+    {
+      "word": "typo",
+      "source": "duolingo",
+      "created": "2025-08-20 23:44:24"
+    },
+    {
       "word": "unit",
       "source": "duolingo",
       "created": "2025-08-19 09:57:05"
+    },
+    {
+      "word": "unpack",
+      "source": "duolingo",
+      "created": "2025-08-20 23:41:22"
     },
     {
       "word": "unpacks",
@@ -1297,14 +1757,34 @@
       "created": "2025-08-19 12:06:02"
     },
     {
+      "word": "use",
+      "source": "duolingo",
+      "created": "2025-08-20 23:43:14"
+    },
+    {
+      "word": "usually",
+      "source": "duolingo",
+      "created": "2025-08-20 23:44:24"
+    },
+    {
       "word": "very",
       "source": "duolingo",
       "created": "2025-08-19 10:13:16"
     },
     {
+      "word": "wait",
+      "source": "duolingo",
+      "created": "2025-08-20 23:41:22"
+    },
+    {
       "word": "walk",
       "source": "duolingo",
       "created": "2025-08-19 10:12:25"
+    },
+    {
+      "word": "walking",
+      "source": "duolingo",
+      "created": "2025-08-20 23:46:03"
     },
     {
       "word": "want",
@@ -1327,9 +1807,24 @@
       "created": "2025-08-19 10:41:30"
     },
     {
+      "word": "watching",
+      "source": "duolingo",
+      "created": "2025-08-20 23:42:18"
+    },
+    {
       "word": "we",
       "source": "duolingo",
       "created": "2025-08-19 10:44:01"
+    },
+    {
+      "word": "we'll",
+      "source": "duolingo",
+      "created": "2025-08-20 23:43:35"
+    },
+    {
+      "word": "week",
+      "source": "duolingo",
+      "created": "2025-08-20 23:42:18"
     },
     {
       "word": "weekend",
@@ -1347,6 +1842,11 @@
       "created": "2025-08-19 10:09:24"
     },
     {
+      "word": "when",
+      "source": "duolingo",
+      "created": "2025-08-20 23:40:20"
+    },
+    {
       "word": "where",
       "source": "duolingo",
       "created": "2025-08-19 10:04:25"
@@ -1355,6 +1855,11 @@
       "word": "who",
       "source": "duolingo",
       "created": "2025-08-19 09:59:11"
+    },
+    {
+      "word": "whole",
+      "source": "duolingo",
+      "created": "2025-08-20 23:42:18"
     },
     {
       "word": "why",
